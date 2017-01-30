@@ -1,4 +1,5 @@
 # PASSAT 
+# he afegit aquesta linia
 # Identificacio de punts i llistat amb datatable 
 
 setwd("~/R/spc_shinydashboard")
